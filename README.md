@@ -14,33 +14,6 @@ Power Learn Project Economic Empowerment Hackathon 2026
 
 </div>
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-<style>
-body{
-    font-family:'Poppins',sans-serif;
-}
-h1{
-    color:#0FA9B0;
-    font-weight:800;
-}
-h2{
-    color:#B1125B;
-    font-weight:700;
-}
-h3{
-    color:#0FA9B0;
-    font-weight:600;
-}
-blockquote{
-    border-left:4px solid #0FA9B0;
-}
-table th{
-    background:#0FA9B0;
-    color:white;
-}
-</style>
-
 ---
 
 # 👋 Welcome
